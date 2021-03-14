@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: ab106ea853931d6499a9a41567f4e212
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5483075967448703964
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_0
+  - first:
+      213: -2782150315152610077
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_1
+  - first:
+      213: 2300084209053434730
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_2
+  - first:
+      213: -8072668867986190806
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_3
+  - first:
+      213: -852824271687574887
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_4
+  - first:
+      213: -5064825945464667424
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_5
+  - first:
+      213: -6556035493047155982
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_6
+  - first:
+      213: 4607547586778317509
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_7
+  - first:
+      213: -1093378059271860383
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_8
+  - first:
+      213: -4363289015841400658
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_9
+  - first:
+      213: -6536703897143218680
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_10
+  - first:
+      213: -1174627180080183742
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_11
+  - first:
+      213: 6738419307915154613
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_12
+  - first:
+      213: 2398984553378956731
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_13
+  - first:
+      213: -3189554132012674577
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_14
+  - first:
+      213: 5178815737946042813
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_15
+  - first:
+      213: -8298852382363247075
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_16
+  - first:
+      213: 2582268343241874638
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_17
+  - first:
+      213: 8961960864589191804
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_18
+  - first:
+      213: 970865184401483000
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_19
+  - first:
+      213: -4183194913593712845
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_20
+  - first:
+      213: 3826178138605073838
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_21
+  - first:
+      213: 4625627123976550538
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_22
+  - first:
+      213: -1402116768127242636
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_23
+  - first:
+      213: 6292544058458378983
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_24
+  - first:
+      213: -181192605003772954
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_25
+  - first:
+      213: -6103972905060450504
+    second: Arcade - Pang Buster Bros Pomping World - Backgrounds_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5208
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c1dbb457338e3b0800000000000000
+      internalID: -5483075967448703964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4992
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec66916701d369d0800000000000000
+      internalID: -2782150315152610077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4776
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a638d1ad66a8bef10800000000000000
+      internalID: 2300084209053434730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e04567f6e18ff80800000000000000
+      internalID: -8072668867986190806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4344
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a1b36e7d82a24f0800000000000000
+      internalID: -852824271687574887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4128
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2856f13af16b9b0800000000000000
+      internalID: -5064825945464667424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3912
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2421654784405a0800000000000000
+      internalID: -6556035493047155982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3696
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c241ab4e1c41ff30800000000000000
+      internalID: 4607547586778317509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3480
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f05e3b27a83d0f0800000000000000
+      internalID: -1093378059271860383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d86ef1cb7273c0800000000000000
+      internalID: -4363289015841400658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3048
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eedd04076f845a0800000000000000
+      internalID: -6536703897143218680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464dcb9dc2e2bfe0800000000000000
+      internalID: -1174627180080183742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2616
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49aeba8aca38d50800000000000000
+      internalID: 6738419307915154613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb54dcdadb7ea4120800000000000000
+      internalID: 2398984553378956731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe151897a6d6cb3d0800000000000000
+      internalID: -3189554132012674577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f971a979ded740800000000000000
+      internalID: 5178815737946042813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1752
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e95d93abd84dc80800000000000000
+      internalID: -8298852382363247075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1ba1706f06d320800000000000000
+      internalID: 2582268343241874638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a9ac08ce74f5c70800000000000000
+      internalID: 8961960864589191804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f46b09cdb4397d00800000000000000
+      internalID: 970865184401483000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f960db36e42f5c0800000000000000
+      internalID: -4183194913593712845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5bbeebeb0591530800000000000000
+      internalID: 3826178138605073838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b8049c57813040800000000000000
+      internalID: 4625627123976550538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e28266a3eaa8ce0800000000000000
+      internalID: -1402116768127242636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pang Buster Bros Pomping World - Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 397
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e218e95b7b935750800000000000000
+      internalID: 6292544058458378983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
